@@ -21,4 +21,5 @@ describe("Message class", function() {
     expect(message.commands).toEqual(commands);
   });
 
+
 });
